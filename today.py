@@ -37,3 +37,19 @@ y = float(input("Please enter a float number:"))
 # 2.5
 # 3.7
 # 2.5 + 3.7 = 6.2
+
+#print("{:.2f}".format(3.445556))
+#print(f'{(3.444+0.589374):.2f}')
+
+x = float(input("Please 1st number:"))
+y = float(input("Please 2nd number:"))
+print(f'{x} +  {y} = {(x + y):10.5f}')
+print(f'{x} -  {y} = {(x - y):10.5f}')
+print(f'{x} *  {y} = {(x * y):10.5f}')
+print(f'{x} /  {y} = {(x / y):10.5f}')
+print(f'{x} ** {y} = {(x ** y):10.5f}')
+print(f'{x} \u221A  {y} = {(x ** 1/y):10.5f}')
+
+
+
+
