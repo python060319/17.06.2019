@@ -18,3 +18,10 @@ print('back to normal........')
 # if so, print how many times 'b' appears
 # else print 'no!'
 
+# read age (int) from the user
+# 0-3 print 'baby'
+# 4-12 print 'child'
+# 13-18 print 'teenager'
+# 18+ print grownup
+
+#if a <= >=  == != 0 and or  
