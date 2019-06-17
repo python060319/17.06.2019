@@ -24,4 +24,24 @@ print('back to normal........')
 # 13-18 print 'teenager'
 # 18+ print grownup
 
-#if a <= >=  == != 0 and or  
+#if a <= >=  == != 0 and or
+#if age >= 0 and age <= 3
+
+
+x = 1
+e1 = input("Enter command:")
+eval(e1)
+
+#33.92 * 8.5
+#+ - * / **
+
+
+
+
+
+
+
+
+
+
+
